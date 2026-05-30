@@ -68,5 +68,11 @@
                                      "sha256":  "09678b68e73eeb4463e3b442e0982eba7ff08b07df0614b12a02ed4c9f17fb7a",
                                      "size":  13824
                                  }
+              },
+    "tools":  {
+                  "idols_inject_helper.exe":  {
+                                                  "sha256":  "bb87f166917dfb0ecb5049274236ac394bf52690f5261558aa56eb715187e928",
+                                                  "size":  107008
+                                              }
               }
 }

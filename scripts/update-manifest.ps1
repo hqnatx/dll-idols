@@ -26,12 +26,27 @@ Get-ChildItem -Path $DllDir -Filter "*.dll" -File | Sort-Object Name | ForEach-O
   }
 }
 
+$tools = @{}
+$toolsDir = Join-Path $repoRoot "tools"
+$injectHelper = Join-Path $toolsDir "idols_inject_helper.exe"
+if (Test-Path -LiteralPath $injectHelper) {
+  $helperHash = (Get-FileHash -LiteralPath $injectHelper -Algorithm SHA256).Hash.ToLowerInvariant()
+  $tools["idols_inject_helper.exe"] = [ordered]@{
+    sha256 = $helperHash
+    size   = (Get-Item -LiteralPath $injectHelper).Length
+  }
+}
+
 $manifest = [ordered]@{
   version    = $Version
   repository = "hqnatx/dll-idols"
   branch     = "main"
   baseUrl    = "https://raw.githubusercontent.com/hqnatx/dll-idols/main/dlls"
   files      = $files
+}
+
+if ($tools.Count -gt 0) {
+  $manifest.tools = $tools
 }
 
 $manifestPath = Join-Path $repoRoot "manifest.json"
