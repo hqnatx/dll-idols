@@ -1,0 +1,72 @@
+﻿{
+    "version":  "2026.05.30",
+    "repository":  "hqnatx/dll-idols",
+    "branch":  "main",
+    "baseUrl":  "https://raw.githubusercontent.com/hqnatx/dll-idols/main/dlls",
+    "files":  {
+                  "DisablePreEdits.dll":  {
+                                              "sha256":  "16114fa57b06e0a12720b25a9859c9054d6053b163ecb1eb1713d08b5b74419b",
+                                              "size":  673280
+                                          },
+                  "Magnesium.dll":  {
+                                        "sha256":  "68a22edff12b9026b9652278b2874a647010f9bd473539415e9c64f84fff1898",
+                                        "size":  2085888
+                                    },
+                  "idols.dll":  {
+                                    "sha256":  "b05ef2aa2d56a53e236dee146dae0fb752197be5e14ac7cb30c2c216c29182e2",
+                                    "size":  1343488
+                                },
+                  "idols_respawn.dll":  {
+                                            "sha256":  "039a2d50d644a10ebfe620bac129c2f26efba80f241dcc8702eed74624fd93ae",
+                                            "size":  1344512
+                                        },
+                  "idolsClient.dll":  {
+                                          "sha256":  "e510470cb1e5d2b6a32e355f20596dbfd70956864c1c579467d10549834c330e",
+                                          "size":  84992
+                                      },
+                  "discord-rpc.dll":  {
+                                          "sha256":  "70fa23259ba76a45d960135a7f51e2c61c4233575742b8176f5b80da1886a3fe",
+                                          "size":  202240
+                                      },
+                  "Edit on Release \u0026 Reset on Release.dll":  {
+                                                                      "sha256":  "e31232f9041b1ec8400fa27f516f04715ebd3b188b6707e09fe3d68ae57bf908",
+                                                                      "size":  21504
+                                                                  },
+                  "retrac_reboot_x_auth.dll":  {
+                                                   "sha256":  "32a772e1dea9e0f1982742e91589b455df9a26eb3502fa61f1c7aa584200a932",
+                                                   "size":  97792
+                                               },
+                  "idols_creative.dll":  {
+                                             "sha256":  "d7ce6c17afd2ed0d3de43ecbd2ce8c7e949da744154ab806124755b3f6d03c30",
+                                             "size":  1343488
+                                         },
+                  "Tellurium.dll":  {
+                                        "sha256":  "e3139acf7d542c895a88267014aefab9ccfba3bcc8ecfdb9765a3aaa1baaa55c",
+                                        "size":  17920
+                                    },
+                  "console_rebootv3.dll":  {
+                                               "sha256":  "a4873bd206a1bbf05eea868d28f4850942fed8eb55a465ecc05604c5bc9c43c7",
+                                               "size":  327168
+                                           },
+                  "retrac_unreal_engine_patcher.dll":  {
+                                                           "sha256":  "efe4f5e6250381e461ab005b182eec5011fecc7f00ce31ecc4311f0b51088bd0",
+                                                           "size":  86528
+                                                       },
+                  "rebootV3_after_s20.dll":  {
+                                                 "sha256":  "c6b21bad1efa332db00b2704a6b1d8fa4c51ebd9525e94df02958a2ab4fdbce1",
+                                                 "size":  2988032
+                                             },
+                  "LargePakPatch.dll":  {
+                                            "sha256":  "37643199b7357dca577c404465124703a02d64058285130af37598cfb16394d5",
+                                            "size":  46592
+                                        },
+                  "rebootV3_before_s20.dll":  {
+                                                  "sha256":  "c6b21bad1efa332db00b2704a6b1d8fa4c51ebd9525e94df02958a2ab4fdbce1",
+                                                  "size":  2988032
+                                              },
+                  "memory.dll":  {
+                                     "sha256":  "09678b68e73eeb4463e3b442e0982eba7ff08b07df0614b12a02ed4c9f17fb7a",
+                                     "size":  13824
+                                 }
+              }
+}
