@@ -67,7 +67,11 @@
                   "memory.dll":  {
                                      "sha256":  "09678b68e73eeb4463e3b442e0982eba7ff08b07df0614b12a02ed4c9f17fb7a",
                                      "size":  13824
-                                 }
+                                 },
+                  "beta-iriftols.dll":  {
+                                            "sha256":  "f2a8e861d5866063b62e37af46596b07a25052665efada0a6d9616060f6b68a4",
+                                            "size":  338944
+                                        }
               },
     "tools":  {
                   "idols_inject_helper.exe":  {
