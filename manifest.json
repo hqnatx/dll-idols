@@ -20,10 +20,10 @@
                                             "sha256":  "039a2d50d644a10ebfe620bac129c2f26efba80f241dcc8702eed74624fd93ae",
                                             "size":  1344512
                                         },
-                  "idolsClient.dll":  {
-                                          "sha256":  "bd9e92eb2d6a5a159dfd5d6b6c3e10a60699d8cad0ad92376bdf211dde875b61",
-                                          "size":  84992
-                                      },
+                 "idolsClient.dll": {
+                                            "sha256": "445414303474634c3620b3366d04d9c9959f0d24d8c22d4e0184e4229f553d5c",
+                                            "size": 513024
+                                        },
                   "discord-rpc.dll":  {
                                           "sha256":  "70fa23259ba76a45d960135a7f51e2c61c4233575742b8176f5b80da1886a3fe",
                                           "size":  202240
