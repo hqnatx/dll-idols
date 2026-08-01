@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2026.05.30",
+    "version":  "2026.08.01",
     "repository":  "hqnatx/dll-idols",
     "branch":  "main",
     "baseUrl":  "https://raw.githubusercontent.com/hqnatx/dll-idols/main/dlls",
@@ -13,17 +13,17 @@
                                         "size":  2085888
                                     },
                   "idols.dll":  {
-                                    "sha256":  "b05ef2aa2d56a53e236dee146dae0fb752197be5e14ac7cb30c2c216c29182e2",
-                                    "size":  1343488
+                                    "sha256":  "05c4cd9979cadaed149b9d997113061c7c7f4105987cc957f0264cce8fd326b6",
+                                    "size":  1323520
                                 },
                   "idols_respawn.dll":  {
                                             "sha256":  "039a2d50d644a10ebfe620bac129c2f26efba80f241dcc8702eed74624fd93ae",
                                             "size":  1344512
                                         },
-                 "idolsClient.dll": {
-                                            "sha256": "d1594f49f748652efa475227fa9e923ea1b2348fad78bc68e1211ed8cdb222dd",
-                                            "size": 518144
-                                        },
+                  "idolsClient.dll":  {
+                                          "sha256":  "d1594f49f748652efa475227fa9e923ea1b2348fad78bc68e1211ed8cdb222dd",
+                                          "size":  518144
+                                      },
                   "discord-rpc.dll":  {
                                           "sha256":  "70fa23259ba76a45d960135a7f51e2c61c4233575742b8176f5b80da1886a3fe",
                                           "size":  202240
@@ -60,6 +60,10 @@
                                             "sha256":  "37643199b7357dca577c404465124703a02d64058285130af37598cfb16394d5",
                                             "size":  46592
                                         },
+                  "beta-iriftols.dll":  {
+                                            "sha256":  "f2a8e861d5866063b62e37af46596b07a25052665efada0a6d9616060f6b68a4",
+                                            "size":  338944
+                                        },
                   "rebootV3_before_s20.dll":  {
                                                   "sha256":  "c6b21bad1efa332db00b2704a6b1d8fa4c51ebd9525e94df02958a2ab4fdbce1",
                                                   "size":  2988032
@@ -67,11 +71,7 @@
                   "memory.dll":  {
                                      "sha256":  "09678b68e73eeb4463e3b442e0982eba7ff08b07df0614b12a02ed4c9f17fb7a",
                                      "size":  13824
-                                 },
-                  "beta-iriftols.dll":  {
-                                            "sha256":  "f2a8e861d5866063b62e37af46596b07a25052665efada0a6d9616060f6b68a4",
-                                            "size":  338944
-                                        }
+                                 }
               },
     "tools":  {
                   "idols_inject_helper.exe":  {
