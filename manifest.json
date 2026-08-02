@@ -13,7 +13,7 @@
                                         "size":  2085888
                                     },
                   "idols.dll":  {
-                                    "sha256":  "be743abe9757a410d3347af522ea9051fa512682a612f7d625d931d0d0849740",
+                                    "sha256":  "c750f207ff5f5b085bf350296913ef8458b58cd91c2fc04bb5d920cc55bd807f",
                                     "size":  1323008
                                 },
                   "idols_respawn.dll":  {
@@ -21,8 +21,8 @@
                                             "size":  1344512
                                         },
                   "idolsClient.dll":  {
-                                          "sha256":  "b485881aaa6c46c7768b826cff36fa7486c01e2d8c35dfb1ac642fc96e5b4232",
-                                          "size":  518144
+                                          "sha256":  "30dd5aa1d0a198812cdbc82624e04f531bcd600552a8de520eecdaf025869132",
+                                          "size":  528896
                                       },
                   "discord-rpc.dll":  {
                                           "sha256":  "70fa23259ba76a45d960135a7f51e2c61c4233575742b8176f5b80da1886a3fe",
