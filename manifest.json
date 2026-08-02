@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2026.08.01",
+    "version":  "2026.08.02",
     "repository":  "hqnatx/dll-idols",
     "branch":  "main",
     "baseUrl":  "https://raw.githubusercontent.com/hqnatx/dll-idols/main/dlls",
@@ -13,15 +13,15 @@
                                         "size":  2085888
                                     },
                   "idols.dll":  {
-                                    "sha256":  "05c4cd9979cadaed149b9d997113061c7c7f4105987cc957f0264cce8fd326b6",
-                                    "size":  1323520
+                                    "sha256":  "b3b0a6503b30045b827f986aff2de30b6ab1b607d93e3be01ed09b52b6db2d5c",
+                                    "size":  1323008
                                 },
                   "idols_respawn.dll":  {
                                             "sha256":  "039a2d50d644a10ebfe620bac129c2f26efba80f241dcc8702eed74624fd93ae",
                                             "size":  1344512
                                         },
                   "idolsClient.dll":  {
-                                          "sha256":  "f8c6307feb33d13dabdc44274513155b39a73b7ea6a524b06b0d11ff3e40ca00",
+                                          "sha256":  "256e2cb5f1d125d43c61280d07dafcfeab482e5e7b8de687800eaad8dfa45358",
                                           "size":  518144
                                       },
                   "discord-rpc.dll":  {
