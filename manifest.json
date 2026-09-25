@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2026.09.24",
+    "version":  "2026.09.25",
     "repository":  "hqnatx/dll-idols",
     "branch":  "main",
     "baseUrl":  "https://raw.githubusercontent.com/hqnatx/dll-idols/main/dlls",
@@ -16,22 +16,18 @@
                                     "sha256":  "cf234247f850111e05db4dc3424ba4d592cf83024b2382753f7a36b798e058f0",
                                     "size":  1323520
                                 },
-                  "Potassium.dll":  {
-                                        "sha256":  "5f9f25ac0771595e700d749da4de15b5609048bb407c492e333c076aa67b3df8",
-                                        "size":  5620224
-                                    },
-                  "PotassiumClient.dll":  {
-                                              "sha256":  "e06d03d7ef18e4417a3703e6645cd1b5b7635f33829f79f7b3f4f113aa6d5d66",
-                                              "size":  922624
-                                          },
                   "idols_respawn.dll":  {
                                             "sha256":  "039a2d50d644a10ebfe620bac129c2f26efba80f241dcc8702eed74624fd93ae",
                                             "size":  1344512
                                         },
-                  "idolsClient.dll":  {
-                                          "sha256":  "6fe1dc01f971dc64b7706d81fabb1285dad559f3d0914add5528e625558c0785",
-                                          "size":  530432
-                                      },
+                  "Potassium.dll":  {
+                                        "sha256":  "5f9f25ac0771595e700d749da4de15b5609048bb407c492e333c076aa67b3df8",
+                                        "size":  5620224
+                                    },
+                  "beta-iriftols.dll":  {
+                                            "sha256":  "f2a8e861d5866063b62e37af46596b07a25052665efada0a6d9616060f6b68a4",
+                                            "size":  338944
+                                        },
                   "discord-rpc.dll":  {
                                           "sha256":  "70fa23259ba76a45d960135a7f51e2c61c4233575742b8176f5b80da1886a3fe",
                                           "size":  202240
@@ -40,6 +36,10 @@
                                                                       "sha256":  "e31232f9041b1ec8400fa27f516f04715ebd3b188b6707e09fe3d68ae57bf908",
                                                                       "size":  21504
                                                                   },
+                  "PotassiumClient.dll":  {
+                                              "sha256":  "e06d03d7ef18e4417a3703e6645cd1b5b7635f33829f79f7b3f4f113aa6d5d66",
+                                              "size":  922624
+                                          },
                   "retrac_reboot_x_auth.dll":  {
                                                    "sha256":  "32a772e1dea9e0f1982742e91589b455df9a26eb3502fa61f1c7aa584200a932",
                                                    "size":  97792
@@ -67,10 +67,6 @@
                   "LargePakPatch.dll":  {
                                             "sha256":  "2e6652c36c6c207e4275511fe045d0e809c7c246c5913a6e24aa0918cfbd3f03",
                                             "size":  46592
-                                        },
-                  "beta-iriftols.dll":  {
-                                            "sha256":  "f2a8e861d5866063b62e37af46596b07a25052665efada0a6d9616060f6b68a4",
-                                            "size":  338944
                                         },
                   "rebootV3_before_s20.dll":  {
                                                   "sha256":  "c6b21bad1efa332db00b2704a6b1d8fa4c51ebd9525e94df02958a2ab4fdbce1",
