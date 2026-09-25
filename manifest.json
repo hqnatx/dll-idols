@@ -24,10 +24,10 @@
                                         "sha256":  "5f9f25ac0771595e700d749da4de15b5609048bb407c492e333c076aa67b3df8",
                                         "size":  5620224
                                     },
-                  "beta-iriftols.dll":  {
-                                            "sha256":  "f2a8e861d5866063b62e37af46596b07a25052665efada0a6d9616060f6b68a4",
-                                            "size":  338944
-                                        },
+                  "idolsClient.dll":  {
+                                          "sha256":  "6fe1dc01f971dc64b7706d81fabb1285dad559f3d0914add5528e625558c0785",
+                                          "size":  530432
+                                      },
                   "discord-rpc.dll":  {
                                           "sha256":  "70fa23259ba76a45d960135a7f51e2c61c4233575742b8176f5b80da1886a3fe",
                                           "size":  202240
@@ -67,6 +67,10 @@
                   "LargePakPatch.dll":  {
                                             "sha256":  "2e6652c36c6c207e4275511fe045d0e809c7c246c5913a6e24aa0918cfbd3f03",
                                             "size":  46592
+                                        },
+                  "beta-iriftols.dll":  {
+                                            "sha256":  "f2a8e861d5866063b62e37af46596b07a25052665efada0a6d9616060f6b68a4",
+                                            "size":  338944
                                         },
                   "rebootV3_before_s20.dll":  {
                                                   "sha256":  "c6b21bad1efa332db00b2704a6b1d8fa4c51ebd9525e94df02958a2ab4fdbce1",
