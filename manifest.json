@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2026.10.01",
+    "version":  "2026.10.02",
     "repository":  "hqnatx/dll-idols",
     "branch":  "main",
     "baseUrl":  "https://raw.githubusercontent.com/hqnatx/dll-idols/main/dlls",
@@ -21,8 +21,8 @@
                                             "size":  1344512
                                         },
                   "Potassium.dll":  {
-                                        "sha256":  "e184750460f9548e7ed07aea3771b15a69b9b2aed0452b937eb63aeb3f4d7447",
-                                        "size":  5646336
+                                        "sha256":  "c148901b58247c090b3793a6e6256e837f94c442de5980be19375d9e41711bbb",
+                                        "size":  5657088
                                     },
                   "idolsClient.dll":  {
                                           "sha256":  "6fe1dc01f971dc64b7706d81fabb1285dad559f3d0914add5528e625558c0785",
