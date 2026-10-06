@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2026.10.02",
+    "version":  "2026.10.06",
     "repository":  "hqnatx/dll-idols",
     "branch":  "main",
     "baseUrl":  "https://raw.githubusercontent.com/hqnatx/dll-idols/main/dlls",
@@ -21,8 +21,8 @@
                                             "size":  1344512
                                         },
                   "Potassium.dll":  {
-                                        "sha256":  "76cefec8ea01cf9edcf8b1ffd432d9ea613684bed506eb44d9f438bc3dee3d61",
-                                        "size":  5653504
+                                        "sha256":  "596725a515fe2c0df79f396279ba510219cd1581db79783558c32b983e693c31",
+                                        "size":  5702144
                                     },
                   "beta-iriftols.dll":  {
                                             "sha256":  "f2a8e861d5866063b62e37af46596b07a25052665efada0a6d9616060f6b68a4",
@@ -37,8 +37,8 @@
                                                                       "size":  21504
                                                                   },
                   "PotassiumClient.dll":  {
-                                              "sha256":  "7eb6f3215be6cb4fb9456f33e3fcb7192dd83146d597482a5ade6063fbfe20f0",
-                                              "size":  927232
+                                              "sha256":  "ba8937581cb929198b3f61de3f6d30bfc9aa3d5800640692f6c6413040526245",
+                                              "size":  979456
                                           },
                   "retrac_reboot_x_auth.dll":  {
                                                    "sha256":  "32a772e1dea9e0f1982742e91589b455df9a26eb3502fa61f1c7aa584200a932",
